@@ -2,7 +2,7 @@
 #include<math.h>
 #include<GL/glut.h>
 using namespace std;
-float f, g, r, x1[4], yc[4];
+float x1[4], yc[4];
 int flag = 0;
 void myInit() {
 	glClearColor(1, 1, 1, 1);
